@@ -1,6 +1,16 @@
 // develop a calculator program that performs basic arithmetic operations such as addition,substraction
 // multiplication and division.allow the user to input two numbers and choose an operation to perform.
 
+
+// Approach: 
+//          step 1:- Ask the user to enter the choice as per your number of case.
+//          step 2:- using switch case statement create number of case as per required here in my case 
+//                   I have given to add,sub,mul and div so i have create 4 cases.
+
+// Time Complexity :- O(1)
+// Auxilary Space Complexity :- O(1)
+
+    
 #include <iostream>
 #include <math.h>
 
